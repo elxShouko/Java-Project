@@ -1,0 +1,3 @@
+Online;Job Fair;NTU Club;01-Dec-2020;2100;10.9
+F2F;Dancing;SP Club;01-Jan-2021;2200;69
+Online;Singing;NUS Club;15-Jan-2021;2000;50

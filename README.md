@@ -1,3 +1,3 @@
-# Java Project Event File
+# Java Project
 
 
